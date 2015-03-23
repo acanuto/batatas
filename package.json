@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/acanuto/batatas/issues"
   },
-  "homepage": "https://github.com/acanuto/batatas"
+  "homepage": "https://github.com/acanuto/batatas",
+  "devDependencies": {
+    "chest-src": "^1.4.0"
+  }
 }
