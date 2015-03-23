@@ -1,0 +1,25 @@
+{
+  "name": "batatas",
+  "version": "0.0.1",
+  "description": "descascar batatas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zé Batata",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acanuto/batatas"
+  },
+  "keywords": [
+    "batatas",
+    "fritas",
+    "cozidas",
+    "assadas"
+  ],
+  "bugs": {
+    "url": "https://github.com/acanuto/batatas/issues"
+  },
+  "homepage": "https://github.com/acanuto/batatas"
+}
